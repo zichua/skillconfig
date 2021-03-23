@@ -1,0 +1,15 @@
+zmalloc()
+malloc
+
+柔性数组  
+https://www.cnblogs.com/veis/p/7073076.html
+
+
+inline  size_t  va_list  zcalloc zfree  assert  memcpy 
+void x(int i,...)
+
+
+判断质数  交换两数的值（一个数与其本身异或等于 0，0 与一个数异或不改变该数）  匿名函数
+
+虚继承  自增自减运算符重载
+
